@@ -1,5 +1,3 @@
-import s from './transaction.module.css';
-
 const Transaction = ({ id, type, amount, currency }) => {
   return (
     <tbody>
