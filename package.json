@@ -8,6 +8,7 @@
     "@emotion/styled": "^11.9.3",
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/user-event": "^13.5.0",
+    "formik": "^2.2.9",
     "gh-pages": "^4.0.0",
     "json-loader": "^0.5.7",
     "react": "^16.14.0",
